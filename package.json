@@ -25,7 +25,7 @@
   "dependencies": {
     "@openzeppelin/cli": "^2.8.2",
     "@openzeppelin/contracts": "^3.1.0",
-    "@truffle/hdwallet-provider": "^1.0.40",
+    "@truffle/hdwallet-provider": "^1.6.0",
     "dotenv": "^8.2.0",
     "global": "^4.4.0",
     "oz": "^5.0.3",
